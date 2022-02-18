@@ -1,5 +1,7 @@
 # Phenotypic spectrum and molecular basis in a Chinese cohort of osteogenesis imperfecta with mutations in type I collagen
 
+https://pubmed.ncbi.nlm.nih.gov/35154279/
+
 Peikai Chen<sup>1,2†</sup>, Zhijia Tan<sup>1,3†\*</sup>, Hiu Tung Shek<sup>1</sup>, Jia-nan Zhang<sup>2</sup>, Yapeng Zhou<sup>1</sup>, Shijie Yin<sup>1</sup>, Zhongxin Dong<sup>1</sup>, 
 Jichun Xu<sup>1</sup>, Anmei Qiu<sup>1</sup>, Lina Dong<sup>1</sup>, Bo Gao<sup>1,2*</sup>, Michael Kai Tsun To<sup>1,3*</sup>
 
